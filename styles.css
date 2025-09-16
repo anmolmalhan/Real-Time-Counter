@@ -1,0 +1,9 @@
+#char-count {
+  color: black;
+  font-weight: normal;
+}
+
+#char-count.maxed {
+  color: red;
+  font-weight: bold;
+}
